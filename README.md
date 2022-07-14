@@ -1,4 +1,4 @@
-# Welcome to Ansible
+# Hello, Welcome to Ansible
 ![](https://lh6.googleusercontent.com/pvbQyYAnwP2p_Tffl3lgpANmTYuq1KSsKCELRaD7-G6S9rqfVVaDGtIr3Eqwua6vNkgXPG5cndomB9Qz_YuD41KvVlQ8LBJGF0vnm1efUZaGUJljqmAK5-UgpA_ratMtCOC4SAUXSShkB72S05I)
 
 ## What is Ansible?
@@ -10,7 +10,7 @@ It is one of the top choices to deploy OpenStack. OpenStack-Ansible deploys a pr
 
 ## What are Ansible Playbooks?
 It is a set of tasks that automatically execute against hosts.
-Ansible Playbooks offer a repeatable, re-usable, simple configuration management and multi-machine deployment system, one that is well suited to deploying complex applications. If you need to execute a task with Ansible more than once, write a playbook and put it under source control.
+Ansible Playbooks offer a repeatable, re-usable, simple configuration management and multi-machine deployment system, one that is well suited to deploying complex applications. If you need to execute a task with Ansible more than once, write a playbook and put it under source control. See how easy it is.
 
 ## Playbooks Syntax:
 Playbooks are expressed in YAML format with a minimum of syntax.A playbook is composed of one or more ‘plays’ in an ordered list. The terms ‘playbook’ and ‘play’ are sports analogies. Each play executes part of the overall goal of the playbook, running one or more tasks. Each task calls an Ansible module.
